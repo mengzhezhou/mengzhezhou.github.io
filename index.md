@@ -9,6 +9,6 @@ I will updating my blog weekly.
 email: <jack.zhaoqingsong@gmail.com>.
 ---
 # test
-[SUPPORT](./docs/SUPPORT.html).
+[SUPPORT](./docs/SUPPORT.md).
 
 This is the docs test~

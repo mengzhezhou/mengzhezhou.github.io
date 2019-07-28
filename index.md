@@ -4,7 +4,7 @@ I am a graduate student studying at Shenzhen Advanced Technology Research Instit
 <br>I will update my blog weekly.
 
 # How can you connect me?
-email: jack.zhaoqingsong#gmail.com. Please replace "#" with "@". 
+email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@". 
 <br>Address: 1068 Xueyuan Avenue, Shenzhen University Town, Shenzhen, P.R.China
 
 # My blog

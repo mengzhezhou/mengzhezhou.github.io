@@ -8,6 +8,7 @@
 <br>2.如何定义评估量、其计算的合理性、原点的精确匹配等都要仔细考虑证实
 
 <img width="150" height="150" src="/assets/img/Chaper2_1.jpg" />
+<br>原图
 <br>注意到了没有，这次作业的难点不在图像的旋转，而在于你如何评价图像旋转的好坏。
 
 # 硬件平台：
@@ -46,6 +47,12 @@ matlab2016a上进行分析的。
 # 实验结果及其分析：
 试验结果分析，由图4可以看出，兰索思插值的效果最好，好于双三次插值，双三次插值好于双线性插值，
 双线性插值好于最近邻插值，最近邻插值和基于区域的插值一样，是效果最差的插值方式。
+
+<img width="150" height="150" src="/assets/img/Bilinear interpolation 1.jpg" />
+<br>双线性插值第一次变换后的图像
+
+<img width="150" height="150" src="/assets/img/Bilinear interpolation 2.jpg" />
+<br>双线性插值第二次变换后的图像
 
 # 代码
 [C++代码链接](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter2_1%20image%20rotation/image_rotation.cpp)

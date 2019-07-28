@@ -7,6 +7,6 @@
 <br>提示：1.可正反转回到原点，然后比较未转的图像。
 <br>2.如何定义评估量、其计算的合理性、原点的精确匹配等都要仔细考虑证实
 
-<div align=center><img width="150" height="150" src="/assets/img/Chaper2_1.jpg" /></div>
+<img width="150" height="150" src="/assets/img/Chaper2_1.jpg" />
 
 [back to home page](./..)

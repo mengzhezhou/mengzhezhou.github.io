@@ -8,6 +8,5 @@ I will updating my blog weekly.
 email: <jack.zhaoqingsong@gmail.com>.
 
 # test
-[SUPPORT](./docs/SUPPORT.md).
+[2019年7月28日 花书阅读笔记--持续更新中--](./docs/20190728 deep learning note.md).
 
-This is the docs test~

@@ -6,8 +6,7 @@
 要评估量化插值效果，并对结果进行讨论。
 <br>提示：1.可正反转回到原点，然后比较未转的图像。
 <br>2.如何定义评估量、其计算的合理性、原点的精确匹配等都要仔细考虑证实
-<br><img src="/assets/img/Chaper2_1.jpg" align="middle" width="25%" />
 
-<div align=center><img width="150" height="150" src="https://img-blog.csdn.net/20161028230559575"/></div>
+<div align=center><img width="150" height="150" src="/assets/img/Chaper2_1.jpg"/></div>
 
 [back to home page](./..)

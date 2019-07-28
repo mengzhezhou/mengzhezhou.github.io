@@ -1,6 +1,6 @@
-title: Minimal theme
+title: qs.zhao's blog
 logo: /assets/img/zqs_photo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
+description: I am a graduate student studying at Shenzhen Advanced Technology Research Institute, Chinese Academy of Sciences.Now I am doing some work in computer vision.
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal

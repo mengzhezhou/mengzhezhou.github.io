@@ -3,5 +3,5 @@ I am a graduate student studying at Shenzhen Advanced Technology Research Instit
 # This is my first study blog, please waiting for my updating. 
 I will updating my blog weekly.
 # How can you connect me?
-[email](jack.zhaoqingsong@gmail.com)
+email:jack.zhaoqingsong@gmail.com
 Welcome to exchange and study together.

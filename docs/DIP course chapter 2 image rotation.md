@@ -49,7 +49,7 @@ matlab2016a上进行分析的。
 
 # 代码
 [C++代码链接](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter2_1%20image%20rotation/image_rotation.cpp)
-<br>[Matlab分析代码链接]()
+<br>[Matlab分析代码链接](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter2_1%20image%20rotation/data%20analysis.m)
 
 
 <br>[back to home page](./..)

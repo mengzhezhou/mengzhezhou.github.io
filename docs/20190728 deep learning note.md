@@ -3,4 +3,6 @@
 # KL散度：
 用于衡量两个随机变量的概率分布的差异。
 
-[back](./..)
+<!--supper link, back to home page-->
+[^_^]: # (supper link, back to home page)
+[back to home page](./..)

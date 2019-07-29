@@ -1,6 +1,7 @@
 # Welcome
 I am a graduate student studying at Shenzhen Advanced Technology Research Institute, Chinese Academy of Sciences.Now I am doing some work in computer vision. I hope to communicate and study with you.
 <br>This is my first study blog, please waiting for my updating. 
+<br>I will suggest notes from [youdao cloud notes](https://note.youdao.com/?keyfrom=ydoc) and [zhihu](https://www.zhihu.com/people/zhao-qing-song-68-22/activities) platform to my own personal blog.
 <br>I will update my blog weekly.
 
 # How can you connect me?

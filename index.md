@@ -10,7 +10,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 
 # My blog
 ## 花书阅读
-[2019年7月28日 花书阅读笔记 持续更新中](./docs/20190728 deep learning note.html).
+[2019年7月28日 花书阅读笔记 持续更新中](./docs/20190728 deep learning note.md).
 ## 数字图像处理
 [2018年3月24日 数字图像处理第二章作业 图像旋转](./docs/DIP course chapter 2 image rotation.md).
 <br>[2018年4月10日 数字图像处理第三章作业 图像增强高斯拉普拉斯算子零交叉点](https://zhuanlan.zhihu.com/p/35239779)[**\[code\]**](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter3%20image%20intensification/image_intensification.cpp)
@@ -18,3 +18,4 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 [2018年7月15日 生物医学信息 心电数据分类识别](https://zhuanlan.zhihu.com/p/39771706).
 ## 平台搭建
 [2018年5月1日 windows10 Python 3.5.2 pytorch pip3 cuda9.1](https://zhuanlan.zhihu.com/p/36307324).
+<br>[2019年7月29日 如何使用github pages搭建一个自己的个人博客主页](./docs/How to build your own personal homepage.md)

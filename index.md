@@ -13,4 +13,6 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 [2019年7月28日 花书阅读笔记 持续更新中](./docs/20190728 deep learning note.html).
 ## 数字图像处理
 [2018年3月24日 数字图像处理第二章作业 图像旋转](./docs/DIP course chapter 2 image rotation.md).
-<br>[2018年4月10日 数字图像处理第三章作业 图像增强高斯拉普拉斯算子零交叉点](https://zhuanlan.zhihu.com/p/35239779). [**\[code\]**](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter3%20image%20intensification/image_intensification.cpp)
+<br>[2018年4月10日 数字图像处理第三章作业 图像增强高斯拉普拉斯算子零交叉点](https://zhuanlan.zhihu.com/p/35239779)[**\[code\]**](https://github.com/ZQSIAT/blog_code/blob/master/DIP%20Chapter3%20image%20intensification/image_intensification.cpp)
+## 生物医学信息
+[2018年7月15日 生物医学信息 心电数据分类识别](https://zhuanlan.zhihu.com/p/39771706).

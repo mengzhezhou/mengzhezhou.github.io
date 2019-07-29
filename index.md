@@ -24,6 +24,9 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 <br>[2019年3月20日 pycharm之新建工程以及远程调试](http://note.youdao.com/noteshare?id=8f2bb561f8302a784fcc4fd29bfa35ab).
 <br>[2019年5月1日 pycharm之git push/pull以及多人共同管理编辑githui托管库](./docs/pycharm git push-pull.md)
 
+# 想法记录
+## 关于大疆无人机
+[大疆产品的一些思考](./docs/dji production.md)
 
 
 

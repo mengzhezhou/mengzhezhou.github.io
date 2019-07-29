@@ -1,7 +1,7 @@
 # Welcome
 I hope to communicate and study with you.
 <br>This is my first study blog, please waiting for my updating. 
-<br>I will transfer notes from [youdao cloud notes](https://note.youdao.com/?keyfrom=ydoc) and [zhihu](https://www.zhihu.com/people/zhao-qing-song-68-22/activities) platform to my own personal blog.
+<br>I will transfer notes from [**Youdao Cloud Notes**](https://note.youdao.com/?keyfrom=ydoc) and [**Zhihu**](https://www.zhihu.com/people/zhao-qing-song-68-22/activities) platform to my own personal blog.
 <br>I will update my blog weekly.
 
 # How can you reach me?
@@ -23,6 +23,10 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 [2019年3月20日 pycharm怎样解决安装的numpy、opencv、scipy插件无法import的问题](http://note.youdao.com/noteshare?id=2b9ef718642a083bcc55d90b4e8be579).
 <br>[2019年3月20日 pycharm之新建工程以及远程调试](http://note.youdao.com/noteshare?id=8f2bb561f8302a784fcc4fd29bfa35ab).
 <br>[2019年5月1日 pycharm之git push/pull以及多人共同管理编辑githui托管库](./docs/pycharm git push-pull.md)
+
+
+
+
 
 
 

@@ -26,7 +26,7 @@ Email: ***jack.zhaoqingsong#gmail.com***. Please replace "#" with "@".
 
 # 想法记录
 ## 关于大疆无人机
-[大疆产品的一些思考](./docs/dji production.md)
+[大疆无人机的一些思考](./docs/dji production.md)
 
 
 

@@ -52,13 +52,13 @@ int *random_array(int n, int rangel, int rangeh)
 	return arr;	
 }
 
-bool is_sorted(int arr, int n)
+int is_sorted(int arr, int n)
 {
 	int i;
 	for (i=1; i < n; i++)
 		if (arr[i-1] > arr[i])
-			return false;
-	return true;
+			return 0;
+	return 1;
 }
 
 int main()
@@ -101,12 +101,12 @@ int main()
 	clock_t start, finish;
 	printf("请输入要排序的序列的长度：\n");
 	scanf("%d", &n);
-	int *arr = randomarr(n, 0, 1000);
+	int *arr = random_array(n, 0, 1000);
 	start=clock();
 	mergesort(arr, n);
 	finish = clock();
 	t = double(finish - start) / CLOCKS_PER_SEC;
-	assert(is_sorted(arr, n));
+	assert(is_sorted(arr, n) == 1);
 	printf("%d个数排序需要%f s", n, t);	
 }
 ```

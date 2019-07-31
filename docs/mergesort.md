@@ -1,4 +1,4 @@
-'''C
+```c
 #include<stdio.h>
 #include<stdlib.h>
 #include<assert.h>
@@ -109,4 +109,4 @@ int main()
 	assert(is_sorted(arr, n));
 	printf("%d个数排序需要%f s", n, t);	
 }
-'''
+```
